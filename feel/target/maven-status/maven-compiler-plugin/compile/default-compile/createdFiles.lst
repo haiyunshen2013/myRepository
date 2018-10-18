@@ -1,0 +1,17 @@
+com\bjsxt\controller\FeelController.class
+com\bjsxt\pojo\FeelExample.class
+com\bjsxt\utils\FtpUtil.class
+com\bjsxt\pojo\Feel.class
+com\bjsxt\pojo\FeelExample$Criteria.class
+com\bjsxt\service\FeelService.class
+com\bjsxt\pojo\ImgExample$Criterion.class
+com\bjsxt\pojo\ImgExample.class
+com\bjsxt\pojo\FeelExample$GeneratedCriteria.class
+com\bjsxt\pojo\FeelExample$Criterion.class
+com\bjsxt\pojo\ImgExample$GeneratedCriteria.class
+com\bjsxt\mapper\ImgMapper.class
+com\bjsxt\service\impl\FeelServiceImpl.class
+com\bjsxt\pojo\ImgExample$Criteria.class
+com\bjsxt\utils\IDUtils.class
+com\bjsxt\mapper\FeelMapper.class
+com\bjsxt\pojo\Img.class
